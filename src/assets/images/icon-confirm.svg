@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.18" height="19.18" viewBox="0 0 19.18 19.18">
+    <g id="btn_confirm" transform="translate(-1001.41 -260.41)">
+        <path id="ico_confirm" fill="none" stroke="#666" stroke-width="1.2px" d="M1002.01 270a8.99 8.99 0 1 1 8.99 8.99 8.99 8.99 0 0 1-8.99-8.99z"/>
+        <path id="ico_confirm-2" fill="#666" d="M1014.518 266.763l-5.6 5.6-1.5-1.5a.767.767 0 1 0-1.085 1.084l2.046 2.046a.782.782 0 0 0 1.085 0l6.139-6.139a.766.766 0 0 0 0-1.084.782.782 0 0 0-1.085-.007z" data-name="ico_confirm"/>
+    </g>
+</svg>

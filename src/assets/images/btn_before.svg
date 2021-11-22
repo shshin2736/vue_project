@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__btn_before" width="15.6" height="26" viewBox="0 0 15.6 26">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#666}
+        </style>
+    </defs>
+    <path id="prefix__사각형_10" d="M0 0H3.677V18.385H0z" class="prefix__cls-1" data-name="사각형 10" transform="rotate(-135 4.53 7.262)"/>
+    <path id="prefix__사각형_11" d="M0 0H3.677V18.385H0z" class="prefix__cls-1" data-name="사각형 11" transform="rotate(-45 15.692 6.5)"/>
+</svg>

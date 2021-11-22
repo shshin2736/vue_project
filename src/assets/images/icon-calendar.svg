@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__icon-calendar" width="18" height="18" viewBox="0 0 18 18">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#666}.prefix__cls-2{fill:#666}
+        </style>
+    </defs>
+    <g id="prefix__사각형_691" class="prefix__cls-1" data-name="사각형 691">
+        <path d="M0 0H18V17H0z" transform="translate(0 1)"/>
+        <path fill="none" d="M0.5 0.5H17.5V16.5H0.5z" transform="translate(0 1)"/>
+    </g>
+    <path id="prefix__사각형_690" d="M0 0H4.5V4.5H0z" class="prefix__cls-2" data-name="사각형 690" transform="translate(10.6 10.6)"/>
+    <path id="prefix__사각형_692" d="M0 0H1.5V3.5H0z" class="prefix__cls-2" data-name="사각형 692" transform="translate(4.5)"/>
+    <path id="prefix__사각형_693" d="M0 0H1.5V3.5H0z" class="prefix__cls-2" data-name="사각형 693" transform="translate(12)"/>
+    <path id="prefix__line" d="M0 0h17.357" class="prefix__cls-1" transform="translate(.321 5.75)"/>
+</svg>

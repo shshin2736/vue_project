@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="icon_delete" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="사각형_915" fill="red" d="M0 0H16V16H0z" opacity="0.1"/>
+        </clipPath>
+        <style>
+            .cls-3{fill:#222}
+        </style>
+    </defs>
+    <g id="illust" clip-path="url(#clip-path)">
+        <g id="그룹_1118" transform="translate(0 -.5)">
+            <path id="사각형_912" d="M0 0H1V6H0z" class="cls-3" transform="translate(6 6)"/>
+            <path id="사각형_913" d="M0 0H1V6H0z" class="cls-3" transform="translate(9 6)"/>
+            <path id="패스_2270" d="M154 81v1h1v10a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V82h1v-1zm2 11V82h8v10z" class="cls-3" transform="translate(-152 -78)"/>
+            <path id="사각형_914" d="M0 0H4V1H0z" class="cls-3" transform="translate(6 1)"/>
+            <path id="_Transparent_Rectangle_" fill="none" d="M0 0H16V16H0z"/>
+        </g>
+    </g>
+</svg>

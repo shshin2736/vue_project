@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="prefix___btn_delete" data-name="btn_delete" transform="translate(-1.443 -1)">
+        <path id="prefix__사각형_610" fill="#666" d="M0 0H14V14H0z" data-name="사각형 610" transform="translate(1.443 1)"/>
+        <g id="prefix__ico_delete">
+            <path id="prefix__패스_2106" d="M0 10.2h1V0H0z" class="prefix__cls-2" data-name="패스 2106" transform="rotate(135 3.86 8.167)"/>
+            <path id="prefix__패스_2107" d="M0 0h1v10.2H0z" class="prefix__cls-2" data-name="패스 2107" transform="rotate(45 1 16.07)"/>
+        </g>
+    </g>
+</svg>

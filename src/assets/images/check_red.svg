@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+    <g id="check_red" transform="translate(-918 -408)">
+        <circle id="Green" cx="7" cy="7" r="7" fill="#dc4748" transform="translate(918 408)"/>
+        <path id="check" fill="#fff" d="M923.1 417.595l-1.4-1.4a.7.7 0 0 1 .99-.99l.905.9 3.7-3.705a.7.7 0 1 1 .99.99l-4.2 4.2a.7.7 0 0 1-.985.005z"/>
+    </g>
+</svg>

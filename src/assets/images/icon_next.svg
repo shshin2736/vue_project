@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#666}
+        </style>
+    </defs>
+    <g id="prefix__icon_next" transform="rotate(135 6.115 6.006)">
+        <g id="prefix__bg_R_" fill="#fff" stroke="#e1e1e1" stroke-linejoin="round" data-name="bg_R &gt;&gt;">
+            <path stroke="none" d="M0 0H20V20H0z" transform="rotate(45 19.643 .62)"/>
+            <path fill="none" d="M0.5 0.5H19.5V19.5H0.5z" transform="rotate(45 19.643 .62)"/>
+        </g>
+        <path id="prefix__패스_2102" d="M0 0h1v7.172H0z" class="prefix__cls-2" data-name="패스 2102" transform="rotate(-90 1.692 -2.328)"/>
+        <path id="prefix__패스_2103" d="M0 0h1v7.172H0z" class="prefix__cls-2" data-name="패스 2103" transform="translate(4.021 -1.636)"/>
+    </g>
+</svg>

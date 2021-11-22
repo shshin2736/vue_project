@@ -1,0 +1,5 @@
+@mixin ckEditor() {
+  .ck.ck-editor__main > .ck-editor__editable {
+    margin-top: -1px;
+  }
+}

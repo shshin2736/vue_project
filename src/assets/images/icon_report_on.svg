@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="사각형_887" fill="#06f" d="M0 0H16V17H0z" transform="translate(867 616)"/>
+        </clipPath>
+        <style>
+            .cls-5{fill:#da291c}
+        </style>
+    </defs>
+    <g id="icon_report_on" transform="translate(-867 -616)">
+        <g id="마스크_그룹_16" clip-path="url(#clip-path)">
+            <g id="그룹_1110">
+                <g id="그룹_1109" fill="none">
+                    <g id="사각형_906" stroke="#da291c" stroke-linejoin="round">
+                        <path stroke="none" d="M2 0h12v15a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2z" transform="translate(867 616)"/>
+                        <path d="M2 .5h11a.5.5 0 0 1 .5.5v14a1.5 1.5 0 0 1-1.5 1.5H2A1.5 1.5 0 0 1 .5 15V2A1.5 1.5 0 0 1 2 .5z" transform="translate(867 616)"/>
+                    </g>
+                </g>
+                <circle id="red" cx="3.5" cy="3.5" r="3.5" class="cls-5" transform="translate(876 616)"/>
+                <g id="line">
+                    <path id="사각형_888" d="M0 0H5V1H0z" class="cls-5" transform="translate(870 621)"/>
+                    <path id="사각형_890" d="M0 0H8V1H0z" class="cls-5" transform="translate(870 627)"/>
+                    <path id="사각형_891" d="M0 0H8V1H0z" class="cls-5" transform="translate(870 624)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

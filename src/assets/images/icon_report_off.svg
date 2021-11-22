@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="17" viewBox="0 0 14 17">
+    <defs>
+        <style>
+            .cls-2{fill:#707070}
+        </style>
+    </defs>
+    <g id="icon_report_off" transform="translate(-867 -616)">
+        <g id="사각형_887" fill="none" stroke="#707070" stroke-linejoin="round" transform="translate(867 616)">
+            <rect width="14" height="17" stroke="none" rx="2"/>
+            <rect width="13" height="16" x=".5" y=".5" rx="1.5"/>
+        </g>
+        <g id="line">
+            <path id="사각형_888" d="M0 0H5V1H0z" class="cls-2" transform="translate(870 621)"/>
+            <path id="사각형_890" d="M0 0H8V1H0z" class="cls-2" transform="translate(870 627)"/>
+            <path id="사각형_891" d="M0 0H8V1H0z" class="cls-2" transform="translate(870 624)"/>
+        </g>
+    </g>
+</svg>

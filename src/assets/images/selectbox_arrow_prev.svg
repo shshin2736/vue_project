@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <style>
+            .cls-2{fill:#222}
+        </style>
+    </defs>
+    <g id="btn_before" transform="translate(-1 -1)">
+        <g id="bg_L_" fill="none" stroke="#e1e1e1" stroke-linejoin="round" data-name="bg_L &lt;&lt;" transform="translate(1 1)">
+            <rect width="30" height="30" stroke="none" rx="1"/>
+            <rect width="29" height="29" x=".5" y=".5" rx=".5"/>
+        </g>
+        <g id="그룹_3" data-name="그룹 3" transform="translate(11.5 9)">
+            <path id="사각형_10" d="M0 0H2V10H0z" class="cls-2" data-name="사각형 10" transform="rotate(-135 2.464 3.95)"/>
+            <path id="사각형_11" d="M0 0H2V10H0z" class="cls-2" data-name="사각형 11" transform="rotate(-45 8.535 3.535)"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9.5" height="9.5" viewBox="0 0 9.5 9.5">
+    <defs>
+        <style>
+            .cls-1{fill:#50a7ff}
+        </style>
+    </defs>
+    <g id="icon_진행" transform="translate(-35.667 -240)">
+        <path id="사각형_704" d="M0 0H5.938V2.375H0z" class="cls-1" data-name="사각형 704" transform="translate(35.667 243.562)"/>
+        <path id="다각형_2" d="M4.75 0L9.5 4.75H0z" class="cls-1" data-name="다각형 2" transform="rotate(90 -97.417 142.584)"/>
+    </g>
+</svg>

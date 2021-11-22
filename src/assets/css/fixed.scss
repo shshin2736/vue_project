@@ -1,0 +1,19 @@
+@include searchbar();
+@include ckEditor();
+
+@include hmstask-table();
+@include hms-grid();
+@include res-table();
+@include res-write-table();
+@include task-nav();
+@include taskCheckForm();
+@include taskInputForm();
+
+.section {
+  margin-top: 20px;
+}
+
+/*
+.task-accordion .sub-accordion-box .sub-accordion-btn {
+  top: 23px;
+}*/
